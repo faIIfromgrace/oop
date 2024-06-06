@@ -1,0 +1,39 @@
+E:\psu\2 курс\oop\1\1\obj\Debug\1.csprojAssemblyReference.cache
+E:\psu\2 курс\oop\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\psu\2 курс\oop\1\1\bin\Debug\1.exe.config
+E:\psu\2 курс\oop\1\1\bin\Debug\1.exe
+E:\psu\2 курс\oop\1\1\bin\Debug\1.pdb
+E:\psu\2 курс\oop\1\1\obj\Debug\1.exe
+E:\psu\2 курс\oop\1\1\obj\Debug\1.pdb
+E:\D\psu\2 курс\oop\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+E:\D\psu\2 курс\oop\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\D\psu\2 курс\oop\1\1\obj\Debug\1.exe
+E:\D\psu\2 курс\oop\1\1\obj\Debug\1.pdb
+D:\LABs\OOTPiSP\maxutca\3\1\bin\Debug\1.exe.config
+D:\LABs\OOTPiSP\maxutca\3\1\bin\Debug\1.exe
+D:\LABs\OOTPiSP\maxutca\3\1\bin\Debug\1.pdb
+D:\LABs\OOTPiSP\maxutca\3\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\LABs\OOTPiSP\maxutca\3\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\LABs\OOTPiSP\maxutca\3\1\obj\Debug\1.exe
+D:\LABs\OOTPiSP\maxutca\3\1\obj\Debug\1.pdb
+D:\LABs\OOTPiSP\maxutca\5\1\bin\Debug\1.exe.config
+D:\LABs\OOTPiSP\maxutca\5\1\bin\Debug\1.exe
+D:\LABs\OOTPiSP\maxutca\5\1\bin\Debug\1.pdb
+D:\LABs\OOTPiSP\maxutca\5\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\LABs\OOTPiSP\maxutca\5\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\LABs\OOTPiSP\maxutca\5\1\obj\Debug\1.exe
+D:\LABs\OOTPiSP\maxutca\5\1\obj\Debug\1.pdb
+D:\LABs\OOTPiSP\maxutca\6\1\bin\Debug\1.exe.config
+D:\LABs\OOTPiSP\maxutca\6\1\bin\Debug\1.exe
+D:\LABs\OOTPiSP\maxutca\6\1\bin\Debug\1.pdb
+D:\LABs\OOTPiSP\maxutca\6\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\LABs\OOTPiSP\maxutca\6\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\LABs\OOTPiSP\maxutca\6\1\obj\Debug\1.exe
+D:\LABs\OOTPiSP\maxutca\6\1\obj\Debug\1.pdb
+E:\D\psu\2 курс\oop\oop\1\bin\Debug\1.exe.config
+E:\D\psu\2 курс\oop\oop\1\bin\Debug\1.exe
+E:\D\psu\2 курс\oop\oop\1\bin\Debug\1.pdb
+E:\D\psu\2 курс\oop\oop\1\obj\Debug\1.csproj.AssemblyReference.cache
+E:\D\psu\2 курс\oop\oop\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\D\psu\2 курс\oop\oop\1\obj\Debug\1.exe
+E:\D\psu\2 курс\oop\oop\1\obj\Debug\1.pdb
